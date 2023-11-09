@@ -53,7 +53,7 @@
 
 
 ## Output:
-```python
+```
 Name:M.CHANDRU
 Register Number: 212222230026
 ```
