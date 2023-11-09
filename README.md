@@ -54,8 +54,8 @@
 
 ## Output:
 ```python
-### Name:M.CHANDRU
-### Register Number: 212222230026
+Name:M.CHANDRU
+Register Number: 212222230026
 ```
 ![image](https://github.com/chandrumathiyazhagan/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119393023/978d2259-d607-49cb-82df-dc210b314025)
 
